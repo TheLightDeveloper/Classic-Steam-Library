@@ -1781,6 +1781,10 @@ div.NarrowRightPanel ._1YbtIWcfkQJOysLXQbwzRf .zjtAIAWI6HE0oCtJzw6Qt {
 
 /* list selection */
 
+._1UBpAXP408Ez_L_mXhW5Q9._2-O4ZG0KrnSrzISHBKctFQ, ._1UBpAXP408Ez_L_mXhW5Q9._2-O4ZG0KrnSrzISHBKctFQ :hover, ._2-O4ZG0KrnSrzISHBKctFQ:hover{
+    background-color: rgb(25,55,84) !important;
+}
+
 ._2-O4ZG0KrnSrzISHBKctFQ._5YTBr7WwIfzVU_3nUtAph:hover {
 	color: var(--label-master) !important;
 }
