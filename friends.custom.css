@@ -322,10 +322,6 @@ Comment these out like I am doing right now if you miss this stuff */
     box-sizing: border-box;
 }
 
-.online .nOdcT-MoOaXGePXLyPe0H, .online ._2Ri005Wg_uXDTa71kdRbcN, .online ._1cB0qtF0paHWWyj1XNcnbG._2Ri005Wg_uXDTa71kdRbcN a, .online ._1cB0qtF0paHWWyj1XNcnbG._2Ri005Wg_uXDTa71kdRbcN a:hover, .online ._1cB0qtF0paHWWyj1XNcnbG._2Ri005Wg_uXDTa71kdRbcN a:active, .online ._1cB0qtF0paHWWyj1XNcnbG._2Ri005Wg_uXDTa71kdRbcN a:visited {
-    color: var(--FriendsOnlineColor);
-}
-
 .nOdcT-MoOaXGePXLyPe0H {
     font-size: 12px !important;
 }
