@@ -230,7 +230,7 @@ Comment these out like I am doing right now if you miss this stuff */
 }
 
 .tabSearchTransitionGroup::before {
-    content: "Search Friends";
+    content: "Search";
     text-transform: none;
     font-style: oblique;
     color: var(--label2-master);
@@ -472,8 +472,8 @@ Comment these out like I am doing right now if you miss this stuff */
 
 .addFriendButton {
     position: fixed;
-    left: 17px;
-    bottom: 5px;
+    left: 12px;
+    bottom: 7px;
     margin: 0;
     width: 100%;
 }
@@ -482,6 +482,7 @@ Comment these out like I am doing right now if you miss this stuff */
     content: "+ Add a Friend...";
     color: var(--label-master);
 	font-weight: bold;
+	font-size: 12px;
 }
 
 .addFriendButton:hover::before {
