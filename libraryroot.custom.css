@@ -703,7 +703,7 @@ div._14U8eM1W6Z4uJhCc5zvbKC._1j_gja8bHXjiS-BeSQk8hb > div._1s_9cSxUjb4609MSH0EjW
 }
 
 ._3ns9185LizH61StaAXuAp6 ._3Rm36_oeAhvIg6ZYP9l1Jj {
-	background-color: var(--label-master) !important;
+	background-color: rgb(25,55,84) !important;
     border-radius: 0 !important;
 }
 
@@ -711,6 +711,7 @@ div._14U8eM1W6Z4uJhCc5zvbKC._1j_gja8bHXjiS-BeSQk8hb > div._1s_9cSxUjb4609MSH0EjW
 	background-color: transparent;
     padding: 3px 3px;
     border: 1px solid var(--label-master);
+	border-radius: 0;
 }
 
 /* Funky Re-ordering */
