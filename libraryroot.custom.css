@@ -1583,7 +1583,6 @@ div._1SyggnJY6qbRSmbZpkK3-H.kGTS55N3oEbxE7HAgE9ZX._2WEwEIAncE7-wa4Ye07a8x > div.
 
 .WYgDg9NyCcMIVuMyZ_NBC:not(._3J3TT6n8aRkFb-N931OMLl) {
     box-shadow: 6px 6px 9px 0px rgba(0,0,0,0.5) !important;
-	border-radius: 5px;
 }
 
 .MyNb5dG3FsBnKdp8j_ntk._1Pf6J2JFkZ-oRpe0_7cabJ, .MyNb5dG3FsBnKdp8j_ntk._1Pf6J2JFkZ-oRpe0_7cabJ:hover, .MyNb5dG3FsBnKdp8j_ntk, .MyNb5dG3FsBnKdp8j_ntk:hover /* Fuck your shitty ass appstore-esque glare */ {
@@ -1991,14 +1990,13 @@ img.HNbe3eZf6H7dtJ042x1vM.HSQWw9HUAP6jtA2OZjS-u {
 
 ._9sPoVBFyE_vE87mnZJ5aB > ._3x1HklzyDs4TEjACrRO2tB > ._1ZS_xta5HMXzR8JgxDH6n7 > ._2WgQEFvIzJw_SHNGbjtRFU > ._2PF_m-I5yte3WnQhpcz8RC > ._3kSh7qVSTDcPDePx9kya8C {
     margin-left: 10px;
-	color: white;
-	text-shadow: 0 0 5px #ffffff;
+	color: var(--Text-master) !important;
 
 }
 
 ._9sPoVBFyE_vE87mnZJ5aB > ._3x1HklzyDs4TEjACrRO2tB > ._1ZS_xta5HMXzR8JgxDH6n7 > ._2WgQEFvIzJw_SHNGbjtRFU > ._2PF_m-I5yte3WnQhpcz8RC:hover ._3kSh7qVSTDcPDePx9kya8C {
     margin-left: 10px;
-	color: white !important;
+	color: var(--Text-master) !important;
     text-shadow: 0 0 0px #fff, 0 0 5px #fff, 0 0 10px #fff !important;
 
 }
@@ -3855,4 +3853,11 @@ svg._17z_pd5KtnIoB7X3ydiPR6 * {
 
 ._3mZ2rKd2RECK4q4ufmsDYX.pHDI1ddoKXceD5KL7W-4z {
 	opacity: 0;
+}
+
+/* Custom fixes */
+
+._2P-W-7p-jFhKaomvy0by-z {
+    display: none;
+    /* Game icons hidden from the tray context menu */
 }
