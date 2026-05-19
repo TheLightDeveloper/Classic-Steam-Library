@@ -1,4 +1,6 @@
-# Classic Steam Library
+>[!FORK NOTICE] 
+>**This theme is only intended to be used for 2015 theme! Any issues regarding to 2013 theme will not be fixed**
+——
 >[!NOTE]
 >Support me and my future work on Ko-Fi: https://ko-fi.com/naii_
 
